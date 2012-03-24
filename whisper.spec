@@ -1,6 +1,6 @@
 %define name whisper
-%define version 0.9.7
-%define unmangled_version 0.9.7
+%define version 0.9.9
+%define unmangled_version 0.9.9
 %define release 1
 
 Summary: Fixed size round-robin style database
